@@ -1,0 +1,17 @@
+k_features,model,preprocessing,atlas,n_subjects,n_features,pearson_r,r2,mae,rmse
+5,anatomical | schaefer,anatomical,schaefer,33,79800,0.365779,0.086693,5.874603,7.543438
+5,global | schaefer,global,schaefer,33,79800,0.11416,-0.043738,6.488422,8.064115
+5,global | tian,global,tian,33,496,-0.15418,-0.422837,7.383513,9.415394
+5,anatomical | tian,anatomical,tian,33,496,-0.334447,-0.529125,8.404451,9.760735
+10,anatomical | schaefer,anatomical,schaefer,33,79800,0.36263,0.067258,6.079387,7.623277
+10,global | schaefer,global,schaefer,33,79800,0.152446,-0.042422,6.597476,8.059029
+10,global | tian,global,tian,33,496,-0.11763,-0.442035,7.56927,9.478701
+10,anatomical | tian,anatomical,tian,33,496,-0.284695,-0.588398,8.639695,9.948112
+15,anatomical | schaefer,anatomical,schaefer,33,79800,0.387629,0.086549,6.041732,7.544035
+15,global | schaefer,global,schaefer,33,79800,0.145803,-0.048755,6.737958,8.083474
+15,global | tian,global,tian,33,496,-0.191266,-0.57327,8.078796,9.900624
+15,anatomical | tian,anatomical,tian,33,496,-0.287135,-0.625798,8.859736,10.064547
+20,anatomical | schaefer,anatomical,schaefer,33,79800,0.382429,0.055344,6.166051,7.67181
+20,global | schaefer,global,schaefer,33,79800,0.159092,-0.028754,6.560128,8.006023
+20,global | tian,global,tian,33,496,-0.189345,-0.638742,8.384802,10.104534
+20,anatomical | tian,anatomical,tian,33,496,-0.220709,-0.614024,8.610876,10.028039
